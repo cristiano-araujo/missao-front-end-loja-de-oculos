@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/missao-front-end-loja-de-oculos/static/css/main.6d33b8c3.css",
+    "main.js": "/missao-front-end-loja-de-oculos/static/js/main.dc08dfea.js",
+    "static/js/787.6ae0d34f.chunk.js": "/missao-front-end-loja-de-oculos/static/js/787.6ae0d34f.chunk.js",
+    "static/media/capa.png": "/missao-front-end-loja-de-oculos/static/media/capa.44a9e1db5439c08db3da.png",
+    "index.html": "/missao-front-end-loja-de-oculos/index.html",
+    "main.6d33b8c3.css.map": "/missao-front-end-loja-de-oculos/static/css/main.6d33b8c3.css.map",
+    "main.dc08dfea.js.map": "/missao-front-end-loja-de-oculos/static/js/main.dc08dfea.js.map",
+    "787.6ae0d34f.chunk.js.map": "/missao-front-end-loja-de-oculos/static/js/787.6ae0d34f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d33b8c3.css",
+    "static/js/main.dc08dfea.js"
+  ]
+}
